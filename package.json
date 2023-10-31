@@ -1,0 +1,20 @@
+{
+  "name": "proshop-v2",
+  "version": "2.0.0",
+  "description": "eCommerce application built with the MERN Stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IqbalAhmadi/proshop.git"
+  },
+  "author": "Iqbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IqbalAhmadi/proshop/issues"
+  },
+  "homepage": "https://github.com/IqbalAhmadi/proshop#readme"
+}
