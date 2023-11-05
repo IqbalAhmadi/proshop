@@ -2,7 +2,7 @@ import express from 'express'
 const router = express.Router()
 import products from '../data/products.js'
 
-router.get('/', (req, res) => {
+router.get('/', async (req, res) => {
   res.json(products)
 })
 
